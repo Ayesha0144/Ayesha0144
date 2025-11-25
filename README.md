@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ayesha0144
-- 👀 I’m interested in databases and Python
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding projects.
-- 📫 How to reach me ayeshaqadeer142@gmail.com
+- 📫 How to reach me: ayeshaqadeer142@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy solving coding challenges and always love learning something new!
 
