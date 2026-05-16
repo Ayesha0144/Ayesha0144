@@ -16,7 +16,6 @@
 - 💻 I'm a **Java Developer**, **Web Developer**, **App Developer** & **Graphic Designer**
 - 🌱 I'm currently learning **Java, OOP, Data Structures & Algorithms**
 - 💞️ I'm looking to collaborate on **Java, Web, Mobile & Design projects**
-- 🔭 I'm currently working on a **Hotel Management System** built with Java & MySQL
 - 🎨 I love creating clean, aesthetic designs alongside my development work
 - ⚡ Fun fact: I enjoy solving coding challenges and always love learning something new!
 - 😄 Pronouns: **she/her**
