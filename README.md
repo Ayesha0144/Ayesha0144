@@ -132,26 +132,6 @@ https://github.com/Ayesha0144/Hotel_Management_System
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayesha0144&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Ayesha0144/Ayesha0144/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
